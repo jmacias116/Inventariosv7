@@ -1,0 +1,17 @@
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\bin\Debug\net7.0\Inventarios.Modelos.deps.json
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\bin\Debug\net7.0\Inventarios.Modelos.runtimeconfig.json
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\bin\Debug\net7.0\Inventarios.Modelos.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\bin\Debug\net7.0\Inventarios.Modelos.pdb
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.csproj.AssemblyReference.cache
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.AssemblyInfoInputs.cache
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.AssemblyInfo.cs
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\refint\Inventarios.Modelos.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.pdb
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.genruntimeconfig.cache
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\ref\Inventarios.Modelos.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\bin\Debug\net7.0\Inventarios.Utilidades.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\bin\Debug\net7.0\Inventarios.Utilidades.pdb
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios.Modelos\obj\Debug\net7.0\Inventarios.Modelos.csproj.CopyComplete
