@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0MSbhJErh4Ap9MYZ/u+pSM6oL7cgKnHifW3FGmarq/c=",
+  "Hash": "Qf/YjW8T1WPH8axwjvbYLbY3FYEzUgUxXS/5YSp56Lw=",
   "Source": "Inventarios",
   "BasePath": "_content/Inventarios",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\bodega.js",
+      "SourceId": "Inventarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\",
+      "BasePath": "_content/Inventarios",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\site.js",

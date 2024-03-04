@@ -21,10 +21,9 @@ namespace Inventarios.AccesoDatos.Repositorio
 
         public UnidadTrabajo(ApplicationDbContext db)
         {
-            db = _db;
+            _db = db;
             Bodega = new BodegaRepositorio(_db);
         }
-
 
         public void Dispose()
         {

@@ -18,7 +18,7 @@ namespace Inventarios.Modelos
         public string Nombre { get; set; } = null!;
        
         [Required(ErrorMessage = "El campo {0} es obligatorio.")]
-        [MaxLength(60, ErrorMessage = "El campo {0} debe tener máximo {1} caractéres.")]
+        [MaxLength(100, ErrorMessage = "El campo {0} debe tener máximo {1} caractéres.")]
         public string Descripcion { get; set; } = null!;
 
 

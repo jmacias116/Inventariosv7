@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Inventarios.AccesoDatos.Data;
 using Inventarios.AccesoDatos.Repositorio.IRepositorio;
 using System.Threading.Tasks;
 using System.Linq.Expressions;
-using Inventarios.AccesoDatos.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Inventarios.AccesoDatos.Repositorio
