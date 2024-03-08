@@ -83,9 +83,9 @@ namespace Inventarios.Areas.Admin.Controllers
         {
             var BodegaDb = await _unidadTrabajo.Bodega.Obtener(id);
 
-            if (BodegaDb== null)
+            if (BodegaDb == null)
             {
-                return Json(new {sucess = false, message= "Error al Borrar Bodega"});
+                return Json(new { sucess = false, message = "Error al Borrar Bodega" });
             }
             _unidadTrabajo.Bodega.Remover(BodegaDb);
             await _unidadTrabajo.Guardar();
@@ -95,14 +95,14 @@ namespace Inventarios.Areas.Admin.Controllers
 
         [ActionName("ValidarNombre")]
 
-        public async Task<IActionResult> ValidarNombre(string Nombre, int id=0)
+        public async Task<IActionResult> ValidarNombre(string Nombre, int id = 0)
         {
             bool valor = false;
             var lista = await _unidadTrabajo.Bodega.ObtenerTodos();
 
-            if(id == 0)
+            if (id == 0)
             {
-                valor = lista.Any(b=> b.Nombre.ToLower().Trim() == Nombre.ToLower().Trim()); 
+                valor = lista.Any(b => b.Nombre.ToLower().Trim() == Nombre.ToLower().Trim());
             }
             else
             {

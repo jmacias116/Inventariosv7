@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
     {
+      "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
       "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

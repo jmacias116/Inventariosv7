@@ -15,7 +15,7 @@ namespace Inventarios.AccesoDatos.Configuracion
         {
             builder.Property(x => x.Id).IsRequired();
             builder.Property(x => x.Nombre).IsRequired().HasMaxLength(30);
-            builder.Property(x => x.Descripcion).IsRequired().HasMaxLength(60);
+            builder.Property(x => x.Descripcion).IsRequired().HasMaxLength(120);
             builder.Property(x => x.Estado).IsRequired();
         }
     }
