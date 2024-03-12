@@ -10,7 +10,7 @@ namespace Inventarios.AccesoDatos.Repositorio
 {
     //Unidad Trabaja engloca a todos Modelos con sus Repositoriod
     // Se invoca en cualquier momento, pero para que se implemente en
-    // el proyectp especialmente en ños Controladores
+    // el proyectp especialmente en los Controladores
     // luego se crea el servicio en Program.cs VIDEO 30
 
     public class UnidadTrabajo : IUnidadTrabajo
@@ -19,12 +19,14 @@ namespace Inventarios.AccesoDatos.Repositorio
 
         public IBodegaRepositorio Bodega { get; private set; }
         public ICategoriaRepositorio Categoria { get; private set; }
+        public IMarcaRepositorio Marca { get; private set; }
 
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
             Bodega = new BodegaRepositorio(_db);
             Categoria = new CategoriaRepositorio(_db);
+            Marca = new MarcaRepositorio(_db);
         }
 
         public void Dispose()
