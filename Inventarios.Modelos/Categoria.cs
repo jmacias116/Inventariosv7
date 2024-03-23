@@ -14,11 +14,11 @@ namespace Inventarios.Modelos
 
         [Required(ErrorMessage = "El campo {0} es obligatorio.")]
         [MaxLength(30, ErrorMessage = "El campo {0} debe tener máximo {1} caractéres.")]
-        public string Nombre { get; set; } = null!;
+        public string Nombre { get; set; }
 
         [Required(ErrorMessage = "El campo {0} es obligatorio.")]
         [MaxLength(100, ErrorMessage = "El campo {0} debe tener máximo {1} caractéres.")]
-        public string Descripcion { get; set; } = null!;
+        public string Descripcion { get; set; }
 
 
         [Required(ErrorMessage = "El campo {0} es obligatorio.")]

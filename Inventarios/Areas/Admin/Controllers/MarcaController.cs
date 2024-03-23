@@ -15,7 +15,7 @@ namespace Inventarios.Areas.Admin.Controllers
             _unidadTrabajo = unidadTrabajo;
         }
 
-        public IActionResult Index() // Vista llama a msrcs.js usa Ajax para listar con
+        public IActionResult Index() // Vista llama a marca.js usa Ajax para listar con
                                      // DataTable
         {
             return View();

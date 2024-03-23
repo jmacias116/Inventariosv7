@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG"
+    },
+    {
       "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\site.js",

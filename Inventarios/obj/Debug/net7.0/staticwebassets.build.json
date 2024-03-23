@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l7/K+DrYhyYFlTiIJH+35g91vVYVx2NdOmjBX+ZA9hM=",
+  "Hash": "uv1RzZtK6Wibn/I5wSneYfj0/IxHOqKEF8lMShewFTI=",
   "Source": "Inventarios",
   "BasePath": "_content/Inventarios",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG",
+      "SourceId": "Inventarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\",
+      "BasePath": "_content/Inventarios",
+      "RelativePath": "imagenes/producto/a1d964bc-bd04-430b-95a9-d7233b251749.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG"
+    },
+    {
       "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\bodega.js",
       "SourceId": "Inventarios",
       "SourceType": "Discovered",
@@ -134,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\producto.js",
+      "SourceId": "Inventarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\",
+      "BasePath": "_content/Inventarios",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\producto.js"
     },
     {
       "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\site.js",

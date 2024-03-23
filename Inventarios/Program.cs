@@ -1,8 +1,15 @@
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Inventarios.AccesoDatos.Repositorio.IRepositorio;
+using Inventarios.Modelos;
+using Inventarios.Modelos.ViewModels;
+using Inventarios.Utilidades;
+using System.Data;
 using Inventarios.AccesoDatos.Data;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 using Inventarios.AccesoDatos.Repositorio;
-using Inventarios.AccesoDatos.Repositorio.IRepositorio;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -43,4 +50,9 @@ app.MapControllerRoute(
     pattern: "{Area=Inventario}/{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
+IWebHostEnvironment env = app.Environment;
+//Rotativa.AspNetCore.RotativaConfiguration.Setup(env.WebRootPath, "..\\Rotativa\\Windows\\");
+
 app.Run();
+
+
