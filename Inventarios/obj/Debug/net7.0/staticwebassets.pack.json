@@ -13,8 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
       "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG"
+    },
+    {
+      "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\producto\\e911e85d-b3fb-44c5-a34a-efb03ca7173d.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\e911e85d-b3fb-44c5-a34a-efb03ca7173d.JPG"
     },
     {
       "Id": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\js\\bodega.js",
