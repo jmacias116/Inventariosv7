@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Inventarios.Modelos.Especificaciones;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -18,7 +19,14 @@ namespace Inventarios.AccesoDatos.Repositorio.IRepositorio
            bool isTracking = true
            );
 
-          
+        //  Interfase para el Paginado de las diferentes entidades VIDEO 67
+        //   va a ser un Metodo de Tipo PagedList del proyecto Modelos
+            PagedList<T> ObtenerTodosPaginado(Parametros parametros, Expression<Func<T, bool>> filtro = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
+            string incluirPropiedades = null,
+            bool isTracking = true);
+
+
 
         Task<T> ObtenerPrimero(
             Expression<Func<T, bool>> filtro = null,

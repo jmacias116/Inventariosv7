@@ -560,3 +560,15 @@ C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\
 C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\Enums.NET.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\NPOI.Core.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\NPOI.OOXML.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\NPOI.OpenXml4Net.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\NPOI.OpenXmlFormats.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\PagedList.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\ICSharpCode.SharpZipLib.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\PROYECTOS\Documentos\DESA WEB\Sistemas WEB\Inventarios\Inventarios\bin\Debug\net7.0\SixLabors.ImageSharp.dll

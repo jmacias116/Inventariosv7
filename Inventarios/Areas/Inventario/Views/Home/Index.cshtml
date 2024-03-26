@@ -1,5 +1,5 @@
 ﻿@using Inventarios.Utilidades
-@model IEnumerable<Inventarios.Modelos.Producto>  
+@model Inventarios.Modelos.Especificaciones.PagedList<Inventarios.Modelos.Producto>
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -23,7 +23,8 @@
             <div class="col-lg-6 col-md-6 col-sm-6 d-flex">
                 <div class="input-group mb-3">
                     <input type="text" class="form-control" placeholder="Buscar ..." aria-label="Buscar" aria-describedby="button-addon2"
-                           name="busqueda" value="@ViewData["BusquedaActual"]" />
+                @*name = mismo nombre parametro de busqueda en el homeController*@       
+                    name="busqueda" value="@ViewData["BusquedaActual"]" />
                     <button type="submit" class="btn btn-outline-primary">
                         <i class="bi bi-search"></i>
                     </button>
@@ -50,7 +51,8 @@
             }
         </div>
 
-        @*<a asp-action="Index"
+        @*  VIDEO 68 *@
+        <a asp-action="Index"
            asp-route-pageNumber="@(1)" class="btn btn-outline-primary"
            asp-route-busquedaActual="@ViewData["BusquedaActual"]">
             <i class="bi bi-skip-start-fill"></i>
@@ -71,7 +73,7 @@
            asp-route-pageNumber="@ViewData["TotalPaginas"]" class="btn btn-outline-primary"
            asp-route-busquedaActual="@ViewData["BusquedaActual"]">
             <i class="bi bi-skip-end-fill"></i>
-        </a>*@
+        </a>
     </div>
 
 </section>
