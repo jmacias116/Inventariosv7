@@ -17,6 +17,8 @@ namespace Inventarios.AccesoDatos.Data
         public DbSet<Marca> Marcas { get; set; }
         public DbSet<Producto> Productos { get; set; }
 
+        public DbSet<UsuarioAplicacion> UsuarioAplicacions { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

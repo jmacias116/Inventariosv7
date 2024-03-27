@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AqO+UB1FQBiEWlDw9LP7ADLYly4Vj1fQ6RBurYmSNps=",
+  "Hash": "qwGDJLQjMxOXHC0WcjCU+2h24qxkY5zob5dXu1wDomw=",
   "Source": "Inventarios",
   "BasePath": "_content/Inventarios",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\producto\\a1d964bc-bd04-430b-95a9-d7233b251749.JPG"
+    },
+    {
+      "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\producto\\d23dc5df-fee3-4ea8-888a-d6db34b96bb1.JPG",
+      "SourceId": "Inventarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\",
+      "BasePath": "_content/Inventarios",
+      "RelativePath": "imagenes/producto/d23dc5df-fee3-4ea8-888a-d6db34b96bb1.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\d23dc5df-fee3-4ea8-888a-d6db34b96bb1.JPG"
     },
     {
       "Identity": "C:\\PROYECTOS\\Documentos\\DESA WEB\\Sistemas WEB\\Inventarios\\Inventarios\\wwwroot\\imagenes\\producto\\e911e85d-b3fb-44c5-a34a-efb03ca7173d.JPG",
